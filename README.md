@@ -1,5 +1,6 @@
 # folder-structure
 Creates a Unity Asset Folder Structure with one click
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-Test
+1. Add the C# file in your empty Unity project.
+2. Add GameObject > Create Folder Structure
+3. Remove the C# file
